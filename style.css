@@ -74,7 +74,7 @@ a {
     height: 32px;
     border: 0;
     border-radius: 50%;
-    background: white url(img/moon-stars.svg) no-repeat center;
+    background: white url(./img/moon-stars.svg) no-repeat center;
     box-shadow: 0 0 10px white;
     position: absolute;
     top: -10%;
@@ -86,7 +86,7 @@ a {
 
 .light #switch button {
   animation: slide-in 0.2s forwards; 
-  background: white url(img/soon.svg) no-repeat center; 
+  background: white url(./img/soon.svg) no-repeat center; 
 }
 
 #switch button:hover {
@@ -204,12 +204,12 @@ footer {
 
 @media (min-width: 700px) {
   body {
-    background: url(img/bg-desktop.jpg) no-repeat top center/cover; 
+    background: url(./img/bg-desktop.jpg) no-repeat top center/cover; 
 }
 
   .light body {
 
-    background: url(img/bg-desktop-light.jpg) no-repeat top center/cover; 
+    background: url(./img/bg-desktop-light.jpg) no-repeat top center/cover; 
   }
 }
 @keyframes slide-in {
