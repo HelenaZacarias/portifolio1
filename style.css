@@ -10,14 +10,14 @@ body{
 }
 
 body {
-  color: white; 
+  color: black; 
 }
 
 .light body {
     background: url(./img/bg-mobile-light.jpg) no-repeat top center/cover;
 }
 body.dark{
-    color: black;
+    color: white;
 }
 a{
     color: white;
