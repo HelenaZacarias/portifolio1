@@ -4,7 +4,7 @@
   box-sizing: border-box;
 }
 
-body .dark {
+body{
   background: url(./img/bg-mobile.jpg) no-repeat top center/cover;
   height: 150vh;
 }
@@ -15,6 +15,9 @@ body {
 
 .light body {
     background: url(./img/bg-mobile-light.jpg) no-repeat top center/cover;
+}
+body.dark{
+    color: black;
 }
 a{
     color: white;
