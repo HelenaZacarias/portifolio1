@@ -9,15 +9,11 @@ body{
   height: 150vh;
 }
 
-body {
-  color: black; 
-}
-
 .light body {
     background: url(./img/bg-mobile-light.jpg) no-repeat top center/cover;
 }
 body.dark{
-    color: white;
+    color: black;
 }
 a{
     color: white;
