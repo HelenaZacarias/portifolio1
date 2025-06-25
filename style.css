@@ -12,7 +12,7 @@ body{
 .light body {
     background: url(./img/bg-mobile-light.jpg) no-repeat top center/cover;
 }
-body.dark{
+body .dark{
     color: black;
 }
 a{
