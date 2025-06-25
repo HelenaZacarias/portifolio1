@@ -183,8 +183,8 @@ footer {
   text-align: center;
   font-size: 14px; 
 }
-footer .dark{
-  color: white;
+.light footer{
+  color: black;
 }
 
 .profile-photo {
